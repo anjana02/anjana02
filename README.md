@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjana02
-- 👀 I’m interested in web app security testing 
+- 👀 I’m interested in web app security testing (IAST)
 - 🌱 I’m currently learning cloud security
 - 📫 reach me through github
 
