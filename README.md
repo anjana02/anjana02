@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjana02
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m @anjana02
 - 👀 I’m interested in web app security testing (IAST)
 - 🌱 I’m currently learning cloud security
 - 📫 reach me through github
