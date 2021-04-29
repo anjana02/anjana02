@@ -8,3 +8,5 @@ anjana02/anjana02 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
  
+ ## Analytics
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana02&layout=compact&langs_count=6&theme=algolia"/>
