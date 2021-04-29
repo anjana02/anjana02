@@ -1,5 +1,5 @@
 - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> Hi, I’m @anjana02
-- 👀 I’m interested in web app security testing (IAST)
+- 👀 I’m interested in exploring
 - 🌱 I’m currently learning cloud security
 - 📫 reach me through github
 
