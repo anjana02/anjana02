@@ -1,7 +1,7 @@
-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> Hey! Everyone I’m @anjana02
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> Hey! Everyone I’m Anjana
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning cloud security
-- 📫 reach me through github
+- 🌱 I’m currently learning.......
+- 📫 reach me through <a href="rs.anjanasuresh@gmail.com">My mail</a>
 
 <!---
 anjana02/anjana02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
