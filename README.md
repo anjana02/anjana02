@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anjana</h1>
-<h3 align="center">A passionate Security Researcher and a undergraduate Computer Science Student</h3>
+<h1 align="left">Hi 👋, I'm Anjana</h1>
+<h3>A passionate Security Researcher and a undergraduate Computer Science Student</h3>
+<h4> I'm intrested in open source </h4>
 
 - 🔭 I’m currently working on **Cloud Security**
 
